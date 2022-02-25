@@ -23,8 +23,8 @@ from mega import Mega
 
 mega = Mega()
 
-email = Config.Mega_email
-password = Config.Mega_password
+email = os.environ.get("Mega_email", "None")
+password = os.environ.get("Mega_password", "None")
 speed = "0"
 # It is really not imprtant for you to enter your mega email or password in config variables!
 
