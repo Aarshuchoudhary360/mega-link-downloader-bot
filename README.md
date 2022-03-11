@@ -46,7 +46,7 @@ Please be kind to star and fork this repo!✨😇
 
 <br>
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XMYSTERlOUSX/mega-link-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aarshuchoudhary360/mega-link-downloader-bot)
 </details>
 
 <details>
@@ -75,7 +75,7 @@ apt install meson
 sudo apt-get install libtool libglib2.0-dev gobject-introspection libgmp3-dev nettle-dev asciidoc glib-networking openssl libcurl4-openssl-dev libssl-dev
 ```
 ```sh  
-git clone https://github.com/XMYSTERlOUSX/megatools
+git clone https://github.com/Aarshuchoudhary360/megatools
 ```
 ```sh  
 cd megatools
@@ -134,7 +134,7 @@ Now If you did everything correctly bot will be running successfully! 🥳
   - Execute the below commands. 👇
 
 ```sh  
-git clone https://github.com/XMYSTERlOUSX/mega-link-downloader-bot
+git clone https://github.com/Aarshuchoudhary360/mega-link-downloader-bot
 ```
 ```sh  
 apt install python3-pip
